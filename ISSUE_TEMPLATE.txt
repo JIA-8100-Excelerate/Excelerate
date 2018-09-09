@@ -10,4 +10,4 @@
 
 
 ## Done Done Criteria
-Customer has approved UI design and function, code is merged with master branch, unit tests are coded and passing, and acceptance scenarios are satisfied.
+Customer has approved feature's design and function, code is merged with master branch, and acceptance scenarios are satisfied.
